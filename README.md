@@ -37,9 +37,4 @@
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU_USUARIO)  
-- 📧 Email: seuemail@exemplo.com  
-
----
-
-⭐️ Se gostou dos meus projetos, não esqueça de dar uma estrela nos repositórios!
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaovitor-rodriguesbraga)  
