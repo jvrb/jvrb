@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou João!
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Jacareí**  
-💻 Apaixonado por tecnologia, mobile e web  
-🚀 Explorando React Native, Redux, Node.js e muito mais  
+💻 Apaixonado por tecnologia e resoluções de problemas
+🚀 Explorando React, Node.js e muito mais  
 
 ---
 
@@ -24,7 +24,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Javascript]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/logo-javascript-blue?logo=javascript))
 
 ---
 
