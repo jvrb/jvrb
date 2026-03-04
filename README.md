@@ -24,7 +24,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![Javascript](https://img.shields.io/badge/logo-javascript-blue?style=for-the-badge&logo=javascript)
 
 ---
 
